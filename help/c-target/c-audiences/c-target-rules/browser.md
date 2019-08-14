@@ -23,7 +23,7 @@ The following browsers can be targeted:
 * Safari
 * iPad
 * Internet Explorer
-* iPhone|
+* iPhone
 
 There are two ways to target browsers:
 
